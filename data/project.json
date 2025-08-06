@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "jade-palmer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/192922080?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "jade-palmer",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2025-08-06T19:21:03.424Z",
-    "updated_at": "2025-08-06T19:21:03.424Z"
-  }
+    "updated_at": "2025-08-06T19:21:03.424Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "234cecb7-1020-44aa-8733-a2680740454d": {
+      "content": [],
+      "created_at": "2025-08-06T19:21:03.447Z",
+      "created_by": "jade-palmer",
+      "title": "Ultimatum Festival",
+      "updated_at": "2025-08-06T19:21:03.447Z",
+      "updated_by": "jade-palmer",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "234cecb7-1020-44aa-8733-a2680740454d"
+  ]
 }
