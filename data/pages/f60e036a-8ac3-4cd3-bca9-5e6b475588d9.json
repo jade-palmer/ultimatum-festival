@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-10-29T16:34:13.635Z",
+  "created_by": "jade-palmer",
+  "title": "test for vtt",
+  "slug": "test-for-vtt",
+  "updated_at": "2025-10-29T16:34:13.635Z",
+  "updated_by": "jade-palmer",
+  "parent": "234cecb7-1020-44aa-8733-a2680740454d",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "f714cd38-b46c-426b-829a-1df7eb0c3aad"
+  }
+}
