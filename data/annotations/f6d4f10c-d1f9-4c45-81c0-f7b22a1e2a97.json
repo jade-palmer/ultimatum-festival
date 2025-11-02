@@ -1,5 +1,321 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 10,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Piano melody. Whoosh sound effect.] | Video Description: Black screen with a white logo and white text that reads \"SpokenWeb\" transitions to a black screen with white text that reads \"Enough Said / Adeena Karasick / bill bissett\" and a banner on the bottom left of the screen that reads \"SpokenWeb Presents\"."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "SpokenWeb edits"
+        }
+      ],
+      "uuid": "08971e95-d58c-4a4d-a003-0912b0221285"
+    },
+    {
+      "start_time": 10,
+      "end_time": 16,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Black screen with white text that reads \"Enough Said / March 13th 1995 / Adeena Karasick\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "SpokenWeb edits"
+        }
+      ],
+      "uuid": "ab5dc254-2c5e-4aec-a794-257ce41780d0"
+    },
+    {
+      "start_time": 16,
+      "end_time": 164,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Explains the Poetry Express project in Toronto, in which poets performed on a bus. Performs a piece beginning with the line \"Keep your eyes on the road.\" Applause.] | Video Description: Medium shot as Karasick flips through papers on a blue box over a trolley cart, which also holds an almost full glass beer bottle. Medium closeup as Karasick performs a piece. Karasick wears a black zippered vest over a black long-sleeved shirt, gold dangling earrings, and shoulder length black hair that is loose and slightly curled."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Adeena Karasick"
+        }
+      ],
+      "uuid": "d26d0155-cdf2-4e0c-ab9f-7fbd59870560"
+    },
+    {
+      "start_time": 164,
+      "end_time": 168,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Black screen  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "SpokenWeb edits"
+        }
+      ],
+      "uuid": "f356737e-c8ec-464f-852b-88f55a7e5a4a"
+    },
+    {
+      "start_time": 168,
+      "end_time": 375,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces and performs an excerpt of a longer work called Archetorture (Wave7Press, 1990) that, Karasick explains, explores memory and her mother's death. Applause.] | Video Description: Flips through papers on trolley. Sips beer. Flips through papers again. Medium closeup as Karasick performs a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Adeena Karasick"
+        }
+      ],
+      "uuid": "c210eac6-4821-4ffa-be28-cfa745a57bbe"
+    },
+    {
+      "start_time": 375,
+      "end_time": 759,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Tells story about travelling in Germany. Performs a piece beginning with chanting and followed by the line, \"And I go in to take the (?) to Mainz, to Mainz,\" which contains both English and German. Karasick interrupts the poem to explain how food vocabulary is often the first words picked up in a new language, and then continues performing. Laughter throughout. Applause.] | Video Description: Sips beer. Shows audience an illustration in one of her collections (cover unidentifiable.) Performs a piece. The camera maintains a medium closeup. Closes books, sips beer, and it overflows with foam. Exits the stage and the frame."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Adeena Karasick"
+        }
+      ],
+      "uuid": "580d300b-25ba-466c-9c75-50956d15383d"
+    },
+    {
+      "start_time": 759,
+      "end_time": 774,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Black screen  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "SpokenWeb edits"
+        }
+      ],
+      "uuid": "45978876-9c5f-4781-a3f9-f88fd831d20a"
+    },
+    {
+      "start_time": 774,
+      "end_time": 889,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs a piece, reading it from the Revival anthology. The piece opens with the line \"can't get enough serotonin.\" Applause.] | Video Description: Medium closeup then closeup of Karasick reading a piece while holding a copy of the Revival anthology, gesticulating and dancing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Adeena Karasick"
+        }
+      ],
+      "uuid": "ea593e0c-5332-495b-9741-04bb2b4de297"
+    },
+    {
+      "start_time": 889,
+      "end_time": 895,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Black screen with white text that reads \"Enough Said / January 16th 1995 / bill bissett\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "SpokenWeb edits"
+        }
+      ],
+      "uuid": "1b3a2ed0-8ed0-412b-b030-78972049586a"
+    },
+    {
+      "start_time": 895,
+      "end_time": 1035,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reads \"unmatching phenomena\" (from Inkorrect Thots, Talonbooks, 1992). Audience laughter throughout. Applause.] | Video Description: billl bissett reads from binder. Audience members briefly pass through camera view."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "bill bissett"
+        }
+      ],
+      "uuid": "172796a6-42c2-4520-9e1d-656fc6e891eb"
+    },
+    {
+      "start_time": 1035,
+      "end_time": 1156,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces \"last nite I had a nitemare abt free trade\" (from Inkorrect Thots, Talonbooks, 1992.) . Audience laughter throughout. Applause. bissett thanks audience.] | Video Description: Medium closeup of bill bissett introducing a piece, addressing audience, then reading from binder. bissett wears a black-and-white patterned vest over a blue tie-dye shirt with a white graphic on the front, large square plastic-framed glasses, and shoulder-length light brown hair with a receding hairline. Camera zooms in and out as bill bissett lowers binder and flips through its pages. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "bill bissett"
+        }
+      ],
+      "uuid": "1108a8d2-33f9-49b6-9198-03a2bbc1226b"
+    },
+    {
+      "start_time": 1156,
+      "end_time": 1309,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Begins reading Unnamed Poem beginning with the line \"Who wrote the script though?\" before breaking off to addresses audience. Audience laughter. Resumes reading poem before addressing audience and interacting with Unknown_Audience_Member. Audience laughter. bill bissett interacts with another Unknown_Audience_Member. Audience laughter. Resumes reading poem. Audience laughter and applause throughout.] | Video Description: bill bissett begins reading from binder before addressing audience, raising hand. bissett resumes reading before addressing audience again. An unseen audience member addresses bissett and they interact. bissett interacts with another unseen audience member. bissett resumes reading from binder. Camera zooms out to long shot as bill bissett finishes reading, lowers binder, and flips through pages. Camera pans across audience members applauding."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "bill bissett"
+        }
+      ],
+      "uuid": "ca52e39f-cc50-48d9-9fcc-e9d131ba1f97"
+    },
+    {
+      "start_time": 1309,
+      "end_time": 1314,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Black screen  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "SpokenWeb edits"
+        }
+      ],
+      "uuid": "009e0420-7fb3-41c8-88e9-bdb4b8fee0a6"
+    },
+    {
+      "start_time": 1314,
+      "end_time": 1614,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reads \"why dew we feer change feer uv th unknown\" (from Th Influenza uv Logik, Talonbooks, 1995).] | Video Description: bill bissett reads from binder. Camera zooms in and out between closeup on bissett and long shot of bissett on stage, panning across the audience members listening to the reading and smoking. bissett finishes reading poem and briefly closes binder before asking Unknown_Audience_Member to hold it as he takes out a page. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "bill bissett"
+        }
+      ],
+      "uuid": "fbc4eb6f-19d9-49d3-987e-702727add30d"
+    },
+    {
+      "start_time": 1614,
+      "end_time": 1635,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Black screen with white text rolling down listing the date, venue, performers' names, the researchers involved in the project, and copyright information."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "SpokenWeb edits"
+        }
+      ],
+      "uuid": "f501c2b8-ac96-46f8-b360-d5f90bf3c2c5"
+    }
+  ],
   "set": "Default",
   "event_id": "a5578cc6-ea3f-4664-8ad2-f1eb5d92ef99",
   "source_id": "fe7f8afc-27b0-4d35-83ba-6264a5eddf4a"
