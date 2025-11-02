@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-11-02T02:09:42.922Z",
+  "created_by": "jade-palmer",
+  "title": "transcript tests",
+  "slug": "transcript-tests",
+  "updated_at": "2025-11-02T02:09:42.922Z",
+  "updated_by": "jade-palmer",
+  "parent": "234cecb7-1020-44aa-8733-a2680740454d",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "a5578cc6-ea3f-4664-8ad2-f1eb5d92ef99"
+  }
+}
