@@ -1,5 +1,1875 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 32,
+      "end_time": 32,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nice 90's hair!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Adeena Karasick"
+        }
+      ],
+      "uuid": "26e1249a-f0a4-4db3-93fa-57b43f0abad0"
+    },
+    {
+      "start_time": 51,
+      "end_time": 51,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jill Battson organized that poetry Bus"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Adeena Karasick"
+        }
+      ],
+      "uuid": "9f38f763-8778-40c0-82fe-b1ada9957f28"
+    },
+    {
+      "start_time": 53,
+      "end_time": 53,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Adeena, you have NOT changed a bit."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jason Camlot"
+        }
+      ],
+      "uuid": "e5606ec2-3d7c-4175-a722-92e2229fd270"
+    },
+    {
+      "start_time": 58,
+      "end_time": 58,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The poetry bus sounds like such a cool project"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade Palmer"
+        }
+      ],
+      "uuid": "11b1090d-592a-4dc4-85e9-9c68e23a54a7"
+    },
+    {
+      "start_time": 60,
+      "end_time": 60,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "HAHAHAHA"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Adeena Karasick"
+        }
+      ],
+      "uuid": "deec5802-8ac1-47dd-bbbd-753d09667290"
+    },
+    {
+      "start_time": 63,
+      "end_time": 63,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bus verse yeah! I remember the express!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "8163657d-5254-4187-9eb8-05cb2313e30a"
+    },
+    {
+      "start_time": 73,
+      "end_time": 73,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'd love to ride on the Poetry Express!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Brandon Hocura"
+        }
+      ],
+      "uuid": "29d2ad21-0f43-4f9e-8810-54cac35c2a97"
+    },
+    {
+      "start_time": 92,
+      "end_time": 92,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So many road poems. I rolled 3 cars in my day including Warren Tallman's  when we drove cross country  for me to go study with Frank Davey in Toronto â Needless to say, I no longer drive ; ) "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Adeena Karasick"
+        }
+      ],
+      "uuid": "fa8df44d-5c2c-4757-9246-0274511bcce4"
+    },
+    {
+      "start_time": 110,
+      "end_time": 110,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You knew a lot if this one by heart, it looks like."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jason Camlot"
+        }
+      ],
+      "uuid": "bb0b466e-ab45-4b52-851d-0efd505a8b5e"
+    },
+    {
+      "start_time": 112,
+      "end_time": 112,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nomadic and vagrant in exile - even then"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Adeena Karasick"
+        }
+      ],
+      "uuid": "f002ae13-8b91-4bac-a035-3f2543aa34cc"
+    },
+    {
+      "start_time": 126,
+      "end_time": 126,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Even though it must have been pretty new."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jason Camlot"
+        }
+      ],
+      "uuid": "a363c85f-79a3-45bf-b1ac-fd2b3d01a99d"
+    },
+    {
+      "start_time": 136,
+      "end_time": 136,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Was the Poetry Express a regular event at the Fringe or just a one off thing?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade Palmer"
+        }
+      ],
+      "uuid": "18d34b72-2f1e-4b86-9f30-962d412a94cc"
+    },
+    {
+      "start_time": 157,
+      "end_time": 157,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Omigosh very animated"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Adeena Karasick"
+        }
+      ],
+      "uuid": "557d87bc-c6b9-430f-8895-9ee10d14c34e"
+    },
+    {
+      "start_time": 158,
+      "end_time": 158,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I love being on th poetree bus"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "bill bissett"
+        }
+      ],
+      "uuid": "4b4f0734-1df4-4955-81f6-ee88c7ee0098"
+    },
+    {
+      "start_time": 172,
+      "end_time": 172,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nice! From Morrison to Derrida bam!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "917b94c1-74c4-4337-9729-0002d06ea8ca"
+    },
+    {
+      "start_time": 183,
+      "end_time": 183,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What street is in the background?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Brandon Hocura"
+        }
+      ],
+      "uuid": "c2c3deb6-8e48-4b27-b023-c5a01e3a5b89"
+    },
+    {
+      "start_time": 193,
+      "end_time": 193,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Reading from my first book 1992 The Empress Has No Closure"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Adeena Karasick"
+        }
+      ],
+      "uuid": "1f164a85-1088-4de3-954d-c516237dcc1c"
+    },
+    {
+      "start_time": 197,
+      "end_time": 197,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "St. Laurent!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade Palmer"
+        }
+      ],
+      "uuid": "cbd65385-ef5c-4505-8237-ff5d456bbb75"
+    },
+    {
+      "start_time": 205,
+      "end_time": 205,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Reacted to Jade Palmer: \"St. Laurent!\" with HEART EMOJI"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Brandon Hocura"
+        }
+      ],
+      "uuid": "3e004a54-d7cb-4f31-ad58-829bac298b11"
+    },
+    {
+      "start_time": 216,
+      "end_time": 216,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was 25 when my mom died of cancer. She never got to see me perform or any of the books"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Adeena Karasick"
+        }
+      ],
+      "uuid": "88660e61-14e2-4f1f-aaeb-d01aee642404"
+    },
+    {
+      "start_time": 237,
+      "end_time": 237,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Written by her bedside as she lie dying"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Adeena Karasick"
+        }
+      ],
+      "uuid": "cee8bde3-2485-4c52-81ec-83df64e30d5a"
+    },
+    {
+      "start_time": 258,
+      "end_time": 258,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She would have loved watching you perform, I imagine."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jason Camlot"
+        }
+      ],
+      "uuid": "4b66ac6f-c360-49ea-8e75-8250784a1d9a"
+    },
+    {
+      "start_time": 272,
+      "end_time": 272,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A beautiful way to honour her"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade Palmer"
+        }
+      ],
+      "uuid": "40690c14-a569-4f42-a93a-4a554e29e7be"
+    },
+    {
+      "start_time": 277,
+      "end_time": 277,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's heavy"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "31502715-f907-4ad3-b2bc-343729fa9b8b"
+    },
+    {
+      "start_time": 279,
+      "end_time": 279,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "awsum"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "bill bissett"
+        }
+      ],
+      "uuid": "fb796b92-eb70-4ad8-9f66-0d44c0314264"
+    },
+    {
+      "start_time": 282,
+      "end_time": 282,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And beautiful"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "c9823ad9-474f-45c9-8745-f08a1e243b89"
+    },
+    {
+      "start_time": 342,
+      "end_time": 342,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Still obsessed with the play of language even then --- non narrative linguistic mashups;  a euphorically conflictual arena between textual and acoustic space"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Adeena Karasick"
+        }
+      ],
+      "uuid": "982100aa-317b-4ae1-835e-d555564820b0"
+    },
+    {
+      "start_time": 362,
+      "end_time": 362,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Totally. Sonorific."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jason Camlot"
+        }
+      ],
+      "uuid": "cab8311d-b868-406a-8a16-af5ad4ef0e6c"
+    },
+    {
+      "start_time": 389,
+      "end_time": 389,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Haven't yet learned to not stick the book right in front of my face ;)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Adeena Karasick"
+        }
+      ],
+      "uuid": "da825d86-bbbb-4472-98ee-eec87cefda36"
+    },
+    {
+      "start_time": 395,
+      "end_time": 395,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Haha."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jason Camlot"
+        }
+      ],
+      "uuid": "2b9d8713-88ae-4998-880b-9c72881fcf5f"
+    },
+    {
+      "start_time": 399,
+      "end_time": 399,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I know what you mean."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jason Camlot"
+        }
+      ],
+      "uuid": "c79ec8ec-8f94-4a15-8680-49ad1225dbdc"
+    },
+    {
+      "start_time": 426,
+      "end_time": 426,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Another driving poem!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade Palmer"
+        }
+      ],
+      "uuid": "4f6baaaa-10e0-4929-bbc6-1bf139612c50"
+    },
+    {
+      "start_time": 448,
+      "end_time": 448,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Love how I'm smiling / smirking at my own puns --- vs evoking the horror of the holocaust"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Adeena Karasick"
+        }
+      ],
+      "uuid": "1e859b4b-830d-4bbd-9975-d708d8bd62dc"
+    },
+    {
+      "start_time": 455,
+      "end_time": 455,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Drew doing his best to take her all in"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "582b715e-9916-4b9f-b33d-be9e84a41b01"
+    },
+    {
+      "start_time": 459,
+      "end_time": 459,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Your performance skills were already so mature, though. You used amplitude (volume) so well (loud to quiet). It's so quiet while you read. Everyone really listening."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jason Camlot"
+        }
+      ],
+      "uuid": "a52021b4-e45b-47a0-8214-8dd97687fd5b"
+    },
+    {
+      "start_time": 555,
+      "end_time": 555,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oy! So many redic puns and interventions even then 30 years ago interested in the multiplicity / polyvalence of meaning --- and how these socio-political fraught linguistic mashups lead to new ways of thinking, seeing and being"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Adeena Karasick"
+        }
+      ],
+      "uuid": "1c9898d2-002e-458b-87d5-2a60c3dbfb1b"
+    },
+    {
+      "start_time": 585,
+      "end_time": 585,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Omg . . .  Freitags and toast! A mushroom umlaut! Sheesh ;)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Adeena Karasick"
+        }
+      ],
+      "uuid": "b2a495f2-05b3-436e-a849-48b6d5dd50a0"
+    },
+    {
+      "start_time": 617,
+      "end_time": 617,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The mixture of such heavy content and joyous play with an audience in sounding it out."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jason Camlot"
+        }
+      ],
+      "uuid": "bae65191-7c92-403b-b59a-2facc57669ef"
+    },
+    {
+      "start_time": 621,
+      "end_time": 621,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's obvious here that you've had so much fun playing with those multiple meanings"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade Palmer"
+        }
+      ],
+      "uuid": "096d6ab0-5740-46e0-bc25-66d7debbb19a"
+    },
+    {
+      "start_time": 624,
+      "end_time": 624,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sew wundrful"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "bill bissett"
+        }
+      ],
+      "uuid": "0e9ffce1-3387-4d09-82cd-0cd900e3b398"
+    },
+    {
+      "start_time": 637,
+      "end_time": 637,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was literally a child there teaching as a visiting professor at the University of Mainz --- and every day there were Neo nazi uprisings I was all alone living in an attic across from the Gutenberg Museum"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Adeena Karasick"
+        }
+      ],
+      "uuid": "45b93843-7ff9-45f6-92fa-ec03eb519168"
+    },
+    {
+      "start_time": 657,
+      "end_time": 657,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "in Mainz?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jason Camlot"
+        }
+      ],
+      "uuid": "e4390faf-f440-4bf7-b2a8-29f0ef5f2d53"
+    },
+    {
+      "start_time": 663,
+      "end_time": 663,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Crazy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jason Camlot"
+        }
+      ],
+      "uuid": "ed78b715-8a32-44dc-ab6b-612c1734ecd4"
+    },
+    {
+      "start_time": 672,
+      "end_time": 672,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I didn't know that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jason Camlot"
+        }
+      ],
+      "uuid": "b4b2b5fc-ae6f-46a3-bd5d-5a64328b8d6c"
+    },
+    {
+      "start_time": 722,
+      "end_time": 722,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Originally it was a response to Robert Kroetsch's Frankfurt Hautbahnhof"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Adeena Karasick"
+        }
+      ],
+      "uuid": "364a7c40-1af6-428f-8037-f86d2c5bde67"
+    },
+    {
+      "start_time": 747,
+      "end_time": 747,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh man"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Adeena Karasick"
+        }
+      ],
+      "uuid": "0af79abe-54e4-4068-b803-c3ecd7845975"
+    },
+    {
+      "start_time": 762,
+      "end_time": 762,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My beer runneth over"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Adeena Karasick"
+        }
+      ],
+      "uuid": "9ecce26f-594f-44b8-a65e-c5da1031c515"
+    },
+    {
+      "start_time": 771,
+      "end_time": 771,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh boy!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Adeena Karasick"
+        }
+      ],
+      "uuid": "9ca9034e-3968-4a9c-889a-7b5a7e0fe7a3"
+    },
+    {
+      "start_time": 794,
+      "end_time": 794,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We had such fun dressing for this night"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "461061b1-78b8-4cc3-b53f-fcd00b59aecc"
+    },
+    {
+      "start_time": 807,
+      "end_time": 807,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I just came off touring with Lollapalooza --- I think this is a listing of drugs..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Adeena Karasick"
+        }
+      ],
+      "uuid": "af392500-e0bf-4b99-a365-82f5bff8795c"
+    },
+    {
+      "start_time": 807,
+      "end_time": 807,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Is this Bistro Quatre?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Brandon Hocura"
+        }
+      ],
+      "uuid": "19af5779-38c2-4c94-bc28-0ba9a5055c44"
+    },
+    {
+      "start_time": 812,
+      "end_time": 812,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "With Ms. Battson"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "1d437d60-c661-4ee2-8a07-2fe85707760b"
+    },
+    {
+      "start_time": 816,
+      "end_time": 816,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is the Fetish Cafe"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade Palmer"
+        }
+      ],
+      "uuid": "22e31266-5249-4e81-9bb9-a1090fb8bde2"
+    },
+    {
+      "start_time": 829,
+      "end_time": 829,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No I think Lollapalooza tour was organized with Kedrick James "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Adeena Karasick"
+        }
+      ],
+      "uuid": "03d84a21-8e40-4ddc-b826-3fbfe338f278"
+    },
+    {
+      "start_time": 852,
+      "end_time": 852,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well thes is a good respnse  to  \"did I ever write more  narratively?\" lol  I guess not"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Adeena Karasick"
+        }
+      ],
+      "uuid": "87eaa6a2-2fa2-4d2a-b869-d240e7b3db4f"
+    },
+    {
+      "start_time": 878,
+      "end_time": 878,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Reacted to Jade Palmer: \"This is the Fetish Cafe.\" with THUMBS UP EMOJI"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Brandon Hocura"
+        }
+      ],
+      "uuid": "5722d75c-67a3-4660-b6f5-9cc8ced629af"
+    },
+    {
+      "start_time": 882,
+      "end_time": 882,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I remember buying that outfit.. I still have it "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Adeena Karasick"
+        }
+      ],
+      "uuid": "820de898-ff54-457d-9d6e-8398b555b013"
+    },
+    {
+      "start_time": 889,
+      "end_time": 889,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Classic finish!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jason Camlot"
+        }
+      ],
+      "uuid": "b9064898-e53a-41c2-9c89-16ce1b9e95d6"
+    },
+    {
+      "start_time": 896,
+      "end_time": 896,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The \"yeah!\" at the end sounded like you, Lee!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade Palmer"
+        }
+      ],
+      "uuid": "5131ebf4-083c-45e3-82aa-ea8508ed17ce"
+    },
+    {
+      "start_time": 906,
+      "end_time": 906,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Awwwww look at baby bill!!!!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Adeena Karasick"
+        }
+      ],
+      "uuid": "fd4fc459-03fc-4d89-a850-860d344979bd"
+    },
+    {
+      "start_time": 919,
+      "end_time": 919,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My hero my teacher my muse"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Adeena Karasick"
+        }
+      ],
+      "uuid": "a01eae6a-634b-4356-862d-0e53fa4568eb"
+    },
+    {
+      "start_time": 929,
+      "end_time": 929,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You were so hot bill! SMILING MOUTH AND EYES EMOJI"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "fb32b006-60f4-4b27-917d-fe2cc8a1b6c7"
+    },
+    {
+      "start_time": 954,
+      "end_time": 954,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That yellow folder went with us on all our world tours together! All over Europe and Russia in 1992"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Adeena Karasick"
+        }
+      ],
+      "uuid": "57be3300-9f0b-47bf-b203-00b641f2b140"
+    },
+    {
+      "start_time": 964,
+      "end_time": 964,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Wow."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jason Camlot"
+        }
+      ],
+      "uuid": "45ce6832-e034-4efb-b786-38bad1dc83c6"
+    },
+    {
+      "start_time": 993,
+      "end_time": 993,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How many times did you tour together?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade Palmer"
+        }
+      ],
+      "uuid": "9043347f-380c-457a-acd5-078a3df8c0ad"
+    },
+    {
+      "start_time": 994,
+      "end_time": 994,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "excellent binder!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Brandon Hocura"
+        }
+      ],
+      "uuid": "ad379044-65af-4ae8-a5ae-9167f2b87155"
+    },
+    {
+      "start_time": 1027,
+      "end_time": 1027,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Wow. What a piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jason Camlot"
+        }
+      ],
+      "uuid": "13c508c5-efb8-4f8a-96c3-3143120eec6f"
+    },
+    {
+      "start_time": 1040,
+      "end_time": 1040,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We've performed together at least 200 times --- 200 all over Europe and Russia, Canada and the US paris, berlin, st petersberg london, geneva, barcelona, oxford with Paula Claire and Bob Cobbing omigosh so many places -- including our anniversary performance in TO; 'n so many conferences, colloquia joint essays with him / on him so many collaborative poems. Right before Covid  i organized a bissett brethday 80th birthdat tour in St. Catharines, at a Pratt Institute in Brooklyn  at the Poets House 'n Players Club in NY, the Tarragon Theater in T); then his 85th at the Supermarket last Nov.  Most recently together at the Secret Handshake a coupla months ago."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Adeena Karasick"
+        }
+      ],
+      "uuid": "68eec8be-6fa7-4a75-bf7a-c300617d0093"
+    },
+    {
+      "start_time": 1051,
+      "end_time": 1051,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Was the binder filled with typed poems?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jason Camlot"
+        }
+      ],
+      "uuid": "cd2c4469-c461-406f-9252-74ab99a09a6a"
+    },
+    {
+      "start_time": 1057,
+      "end_time": 1057,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I have a full listing he taught me everything I know ;)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Adeena Karasick"
+        }
+      ],
+      "uuid": "ba00ba7f-7783-4bf5-92c1-ea0807051f48"
+    },
+    {
+      "start_time": 1073,
+      "end_time": 1073,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "is that a tie-dye spirit tee?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Brandon Hocura"
+        }
+      ],
+      "uuid": "7353f932-215b-4c0c-9bbd-9106270f170e"
+    },
+    {
+      "start_time": 1080,
+      "end_time": 1080,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Free trade. So topical, right?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jason Camlot"
+        }
+      ],
+      "uuid": "fd682ab3-d315-4bb7-8981-f692fa01fb69"
+    },
+    {
+      "start_time": 1108,
+      "end_time": 1108,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What a lovely relationship between the two of you. So happy we get to showcase it!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade Palmer"
+        }
+      ],
+      "uuid": "35290910-652c-4273-ad86-74703971cf12"
+    },
+    {
+      "start_time": 1117,
+      "end_time": 1117,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He would write by hand every day on trains busses cafes and me too. In those days we didn't have printers - hand printed in 3 ring binders"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Adeena Karasick"
+        }
+      ],
+      "uuid": "afaba2f9-e266-484a-b9b8-804ad7e766e6"
+    },
+    {
+      "start_time": 1134,
+      "end_time": 1134,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But his was full of drawings as well"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Adeena Karasick"
+        }
+      ],
+      "uuid": "f9c61955-65f0-4593-aa61-2d25082f36cd"
+    },
+    {
+      "start_time": 1154,
+      "end_time": 1154,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Omg loving this so much"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Adeena Karasick"
+        }
+      ],
+      "uuid": "8b26372d-6f07-4b20-afa2-a98a8c15b172"
+    },
+    {
+      "start_time": 1166,
+      "end_time": 1166,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Wow. A shared ability, bill and Adeena, to deliver the darkest of materials with a life-affirming perspective of humour and joy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jason Camlot"
+        }
+      ],
+      "uuid": "c298fd43-d163-4193-bcc1-ba528c84ebbe"
+    },
+    {
+      "start_time": 1241,
+      "end_time": 1241,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Teaching me also about performance and its ok to not be serious all the time --- vs my Kootenay schoolers (who I love) but were all very serious ;)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Adeena Karasick"
+        }
+      ],
+      "uuid": "85898b9d-2047-450e-a59d-62f7ac0f8ec6"
+    },
+    {
+      "start_time": 1273,
+      "end_time": 1273,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Leaving space for the laughter"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Adeena Karasick"
+        }
+      ],
+      "uuid": "86610f93-73ed-447d-b16c-0d336b7362cd"
+    },
+    {
+      "start_time": 1291,
+      "end_time": 1291,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, very good timing! Not rushing, very comfortable"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade Palmer"
+        }
+      ],
+      "uuid": "c9e122ed-5b20-4410-bf23-509bf6e36ecd"
+    },
+    {
+      "start_time": 1344,
+      "end_time": 1344,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Highrony really a bill signature"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "1b957e2c-0a57-4691-8344-ad7e2b70297b"
+    },
+    {
+      "start_time": 1444,
+      "end_time": 1444,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Smoking INSIDE!! Those were the days lol"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Adeena Karasick"
+        }
+      ],
+      "uuid": "47542803-3fc9-4421-96e2-eb32de9ada78"
+    },
+    {
+      "start_time": 1455,
+      "end_time": 1455,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Everyone is transfixed"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jade Palmer"
+        }
+      ],
+      "uuid": "85f027dd-bbab-4574-83a3-12aa4266bf61"
+    },
+    {
+      "start_time": 1484,
+      "end_time": 1484,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Always he's mezmerizing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Adeena Karasick"
+        }
+      ],
+      "uuid": "d8553c2b-1a16-41d1-920c-ac89b880087e"
+    },
+    {
+      "start_time": 1486,
+      "end_time": 1486,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Just as I am now watching this."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Jason Camlot"
+        }
+      ],
+      "uuid": "b2910237-0e6b-4de2-aa60-53ec787272f0"
+    },
+    {
+      "start_time": 1497,
+      "end_time": 1497,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So many shifts in texture tone"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Adeena Karasick"
+        }
+      ],
+      "uuid": "9d5aae49-0d0d-44a1-b501-f5cf4b518300"
+    },
+    {
+      "start_time": 1511,
+      "end_time": 1511,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My love!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Adeena Karasick"
+        }
+      ],
+      "uuid": "4806883c-db5e-4adf-9421-dcf271e588b4"
+    },
+    {
+      "start_time": 1579,
+      "end_time": 1579,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All the ways he mixes narrative and sonic elements play shifting weaving many threads reminding us how meaning erupts from so many signifying elements"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Adeena Karasick"
+        }
+      ],
+      "uuid": "34c9b695-c6c9-41fa-9032-7399c8d6d221"
+    },
+    {
+      "start_time": 1624,
+      "end_time": 1624,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "More!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Brandon Hocura"
+        }
+      ],
+      "uuid": "5a482bfc-ba29-468d-a72e-a32a9c578f74"
+    }
+  ],
   "event_id": "a5578cc6-ea3f-4664-8ad2-f1eb5d92ef99",
   "set": "watch party transcript",
   "source_id": "fe7f8afc-27b0-4d35-83ba-6264a5eddf4a"
